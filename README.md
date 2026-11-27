@@ -15,3 +15,4 @@ Git and GitHub concepts.
 ## Purpose
 To understand real-time software
 development workflow.
+Learning Git and GitHub practically.
